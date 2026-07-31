@@ -12,6 +12,6 @@ Grab the latest `hsi-studio-Setup-<version>.exe` from the
 
 Installed copies check this feed on launch and update themselves automatically.
 
-## Source Code Access
+## Account Access
 
-To request access to the source code repository, please email me at: **roshankavil009@gmail.com**
+HSI Studio Desktop requires an account which is currently invite-only. To request access, please email me at: **roshankavil009@gmail.com**
