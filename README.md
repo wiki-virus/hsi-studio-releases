@@ -11,3 +11,7 @@ Grab the latest `hsi-studio-Setup-<version>.exe` from the
 [Releases](https://github.com/wiki-virus/hsi-studio-releases/releases) page.
 
 Installed copies check this feed on launch and update themselves automatically.
+
+## Source Code Access
+
+To request access to the source code repository, please email me at: **roshankavil009@gmail.com**
